@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blueviolet;
+    height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 50px 35px;
+    border-radius: 10px;
+    width: 350px;
+}
+
+.title-box {
+    display: flex;
+    justify-content: center;
+}
+
+.img {
+    height: 70px;
+    margin-bottom: 10px;
+}
+
+.title {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.label {
+    font-size: 15px;
+    margin-bottom: 4px;
+}
+
+.input {
+    border: none;
+    outline: none;
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 7px 0;
+    font-size: 15px;
+}
+
+.selects {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.from-box,
+.to-box {
+    flex: 1;
+    border: none;
+    outline: none;
+    background-color: blueviolet;
+    padding: 8px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background-color: blueviolet;
+    padding: 8px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.result {
+    border: none;
+    outline: none;
+    background-color: lightsalmon;
+    padding: 8px;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+    color: black;
+    user-select: none;
+    cursor: default;
+}
