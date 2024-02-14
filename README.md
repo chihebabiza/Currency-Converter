@@ -40,7 +40,8 @@
 </ol>
 
 <h2 id="contributing">Contributing</h2>
-<p>For support or questions about the application, please contact <a href="chihababiza9@gmail.com" target="_blank">chihababiza9@gmail.com</a>.</p>
+<p>For support or questions about the application, please contact <a href="mailto:chihababiza9@gmail.com" target="_blank">chihababiza9@gmail.com</a>.</p>
+
 
 <h2 id="contact">Contact</h2>
-<p>For any inquiries or collaboration opportunities, feel free to contact me via email at <a href="chihababiza9@gmail.com" target="_blank">chihababiza9@gmail.com</a> or reach out to me on Instagram <a href="https://www.instagram.com/chiheb_abiza_/" target="_blank">@chihab_abiza_</a>.</p>
+<p>For any inquiries or collaboration opportunities, feel free to contact me via email at <a href="mailto:chihababiza9@gmail.com" target="_blank">chihababiza9@gmail.com</a> or reach out to me on Instagram <a href="https://www.instagram.com/chiheb_abiza_/" target="_blank">@chihab_abiza_</a>.</p>
